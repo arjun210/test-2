@@ -1,0 +1,152 @@
+body{
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+
+  font-family: 'Merriweather', serif;
+
+
+}
+
+
+h1{
+  margin: 0;
+  padding-top: 40px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+p{
+  line-height: 1;
+
+}
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+.second-paragraph{
+  color: red;
+}
+
+
+
+     /************************IMAGES******************************/
+.background-image{
+background-image: url("https://www.doraemon-world.com/wp-content/themes/doraemon/images/skin_primavera/background.jpg");
+position: relative;
+
+}
+
+
+
+.doraemon-img{
+  border-radius: 8px;
+  position: relative;
+  bottom: 350px;
+
+
+
+
+}
+
+
+.Dorami{
+  position: relative;
+  left: 950px;
+  bottom: 300px;
+
+
+}
+
+.Tsuneo{
+  position: absolute;
+  right:1100px;
+  bottom:700px;
+}
+
+.Shizuka{
+  position: relative;
+  left: 510px;
+  bottom: 100px;
+}
+
+.Nobita{
+position: relative;
+right: 350px;
+bottom: -100px;
+}
+
+.Gegant{
+position: relative;
+right:1130px;
+bottom:150px;
+}
+
+
+.Doraemon{
+  position: relative;
+  left: 250px;
+  bottom: -200px;
+
+}
+
+
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+  margin: 60px auto;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+
+
+.footer-link{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50% ;
+  margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.sonu{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 40px auto;
+}
+
+.sonu-img-1{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right:30px;
+
+}
+
+.sonu-img-2{
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+
+}
